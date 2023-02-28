@@ -1,0 +1,25 @@
+.main_form{
+    border: 2px solid black;
+    max-width: 400px;
+    padding: 20px;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+.frist input{
+    width: 320px;
+}
+.main_form input{
+    margin-bottom: 10px;
+}
+.third input{
+    width: 380px;
+}
+.post_button{
+    margin-left: 180px;
+}
+.locate{
+    margin-left: 47px;
+}
+.main_form input{
+    border-radius: 3px;
+}
